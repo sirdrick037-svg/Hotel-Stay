@@ -1,0 +1,19 @@
+body{
+     background: #C2CC5D;
+}
+
+.contact-form{
+    border: 3px solid #000000;
+    border-radius: 30px;
+    padding: 5px;
+}
+
+.form-group{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+}
+
+.btn-submit{
+    border-radius: 30px;
+}
