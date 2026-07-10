@@ -1,6 +1,6 @@
 body {
   font-family: Poppins, sans-serif;
-  background: #f6f8fc;
+  background: #7CA227;
   margin: 0;
 }
 
@@ -9,7 +9,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 20px 80px;
-  background: white;
+  background: green;
 }
 
 .hero {
@@ -27,19 +27,23 @@ body {
 }
 
 .card {
-  background: white;
+  background: #C2CC5D;
   border-radius: 15px;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
   overflow: hidden;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .card img {
   width: 100%;
+  padding: 5px;
+  padding-top: 5px;
 }
 
 button {
   background: #0a1e5e;
-  color: white;
+  color: green;
   border: none;
   padding: 12px 25px;
   border-radius: 8px;
@@ -52,4 +56,12 @@ textarea {
   padding: 12px;
   border: 1px solid #ddd;
   border-radius: 8px;
+}
+
+.site-footer {
+  background: #ddd;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  border: 1px solid #000000;
 }
