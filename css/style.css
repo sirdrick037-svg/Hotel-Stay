@@ -1,6 +1,6 @@
 body {
   font-family: Poppins, sans-serif;
-  background: #green;
+  background: #jungle green;
   margin: 0;
 }
 
@@ -9,7 +9,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 20px 80px;
-  background: green;
+  background: junglegreen;
 }
 
 .hero {
@@ -27,7 +27,7 @@ body {
 }
 
 .card {
-  background: white;
+  background: jungle green;
   border-radius: 15px;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
   overflow: hidden;
@@ -39,7 +39,7 @@ body {
 
 button {
   background: #0a1e5e;
-  color: white;
+  color: junglegreen;
   border: none;
   padding: 12px 25px;
   border-radius: 8px;
