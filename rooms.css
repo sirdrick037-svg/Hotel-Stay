@@ -1,0 +1,23 @@
+body{
+     background: #7CA227;
+}
+
+.room {
+    border: 1px solid #000000;
+    padding: 20px;
+    background: #ffffff;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 80px;
+  background: green;
+}
+
+
+
+
+
+
